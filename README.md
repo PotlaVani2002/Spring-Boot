@@ -1,3 +1,3 @@
-##VaniApplication ---JPA Repository
+##VaniFirstApplication ---JPA Repository
 
 ##Tasks --- To do Tasks
